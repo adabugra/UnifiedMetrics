@@ -34,7 +34,7 @@ dependencies {
     modImplementation("net.fabricmc:fabric-loader:0.16.0")
 
     modImplementation("net.fabricmc.fabric-api:fabric-api:0.46.1+1.17")
-    modImplementation("net.fabricmc:fabric-language-kotlin:1.11.0+kotlin.2.0.0")
+    modImplementation("net.fabricmc:fabric-language-kotlin:1.12.0+kotlin.2.0.10")
 
     api(project(":unifiedmetrics-core"))
 
